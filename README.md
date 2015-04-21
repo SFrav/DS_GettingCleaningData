@@ -1,4 +1,4 @@
-#This repository provides a script for manipulating the UCI machine learning dataset.
+This repository provides a script for manipulating the UCI machine learning dataset.
 
 The provided script requires the following dataset to be downloaded and extracted to the R working directory. https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
